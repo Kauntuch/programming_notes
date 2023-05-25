@@ -1,6 +1,6 @@
 # Free resources to consider, complete to get cert:
 
-(Creator of this repo is not affiliated with any resources listed below, list was gathered from around the web, try at your own risk)
+(Creator of this repo is not affiliated with any resources listed below, list was gathered from around the web, *try at your own risk*)
 
 Harvard CS50x Intro to Computer Science [updated yearly, general CS course: C, Python, HTML, JavaScript, CSS, SQL]
 https://cs50.harvard.edu/x/2023/

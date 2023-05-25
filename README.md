@@ -1,6 +1,6 @@
 # Kauntuch's general programming notes repo
 
-This is a general storage repo for storing my text and code notes as I learn various programming languages in hopes of becoming a professional programmer. 
+This is a general storage repo for storing my text and code notes as I learn various programming languages in hopes of becoming some kind of professional programmer. 
 
 These notes originally come from code-along courses and tutorials. *These notes are originally for my own usage and* ***may not all be edited for general readability.*** I mostly wanted a place to store the notes I've taken over time in note apps, here and there, that I took using my computers and phone. 
 

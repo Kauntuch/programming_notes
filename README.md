@@ -10,7 +10,7 @@ These notes originally come from code-along courses and tutorials. *These notes 
 
 Apologies. Though if you are reading this, I do hope you might find something useful. 
 
-Thank you for reading. Please, enjoy your stay!
+**Thank you for reading. Please, enjoy your stay!**
 
 --------------------
 Languages so far:

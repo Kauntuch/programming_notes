@@ -6,7 +6,7 @@ These notes originally come from code-along courses and tutorials. These notes a
 
 - They are mostly written in MarkDown .md format, though you should switch to the code view if things do not look correct/are missing pieces of info, as some elements containing certain symbols (like: > <, <head>) may not appear correctly. (At least, I haven't figured out how to get themn to display properly.)
   
-- depending on the nature of the course/tutorial, some notes may be split between Markdown file and accompanying code files (.html, .css, .py, etc.)
+- depending on the nature of certain courses/tutorials, some notes may be split between Markdown file and accompanying code files (.html, .css, .py, etc.)
 
 Apologies. Though if you are reading this, I do hope you might find something useful. 
 

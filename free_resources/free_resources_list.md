@@ -1,4 +1,4 @@
-#Free resources to consider, complete to get cert:
+# Free resources to consider, complete to get cert:
 
 (Creator of this repo is not affiliated with any resources listed below, list was gathered from around the web, try at your own risk)
 

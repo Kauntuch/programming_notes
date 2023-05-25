@@ -1,12 +1,15 @@
-Harvard web programming course that comes after CS50x, 2020 version
+# "Harvard CS50’s Web Programming with Python and JavaScript – Full University Course"
+Full course video via Freecodecamp's YouTube channel:
+https://www.youtube.com/watch?v=vzGllw18DkA&list=PLYOrON91hUbvZVGSuYml59yB9gWcvDvq9&index=47&t=20838s
+
+- Harvard web programming course that comes after CS50x, 2020 version
+
+- Instructor: Brian Yu
 
 Course website:
 https://cs50.harvard.edu/web/2020/
 
-Full course video via Freecodecamp's YouTube channel:
-https://www.youtube.com/watch?v=vzGllw18DkA&list=PLYOrON91hUbvZVGSuYml59yB9gWcvDvq9&index=47&t=20838s
 
-Instructor: Brian Yu
 
 ## Course contents:
 - html, css - structure and style of webpages

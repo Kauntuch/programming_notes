@@ -8,7 +8,9 @@ These notes originally come from code-along courses and tutorials. *These notes 
   
 - Depending on the nature of certain courses/tutorials, some notes may be split between Markdown file and accompanying code files (.html, .css, .py, etc.)
 
-Apologies. Though if you are reading this, I do hope you might find something useful. 
+*This repo is a work in progress!*
+  
+If you are reading this, I do hope you might find something useful. 
 
 **Thank you for reading. Please, enjoy your stay!**
 

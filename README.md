@@ -1,6 +1,6 @@
 # General programming notes
 
-This is a general storage repo for storing my text and code notes as I learn various programming languages. 
+This is a general storage repo for storing my text and code notes as I learn various programming languages in hopes of becoming a professional programmer. 
 
 Everything originally comes from note apps and code-along courses and tutorials. These notes are originally for my own usage and may not all be edited for general readability. 
 

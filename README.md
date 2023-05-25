@@ -8,7 +8,7 @@ Everything originally comes from note apps and code-along courses and tutorials.
 
 Apologies. Though if you are reading this, I do hope you might find something useful. 
 
-Please, enjoy your stay!
+Thank you for reading. Please, enjoy your stay!
 
 --------------------
 Languages so far:

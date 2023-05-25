@@ -1,6 +1,12 @@
-web programming course that comes after CS50x
+Harvard web programming course that comes after CS50x
 
+Course website:
 https://cs50.harvard.edu/web/2020/
+
+Full course video via Freecodecamp's YouTube channel:
+https://www.youtube.com/watch?v=vzGllw18DkA&list=PLYOrON91hUbvZVGSuYml59yB9gWcvDvq9&index=47&t=20838s
+
+Instructor: Brian Yu
 
 ## Course contents:
 - html, css - structure and style of webpages

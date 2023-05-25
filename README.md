@@ -1,4 +1,4 @@
-# General programming notes
+# Kauntuch's general programming notes repo
 
 This is a general storage repo for storing my text and code notes as I learn various programming languages in hopes of becoming a professional programmer. 
 

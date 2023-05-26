@@ -17,11 +17,12 @@ If you are reading this, I do hope you might find something useful.
 **Thank you for reading. Please, enjoy your stay!**
 
 --------------------
-Languages so far:
+Languages:
 - HTML, CSS
 - Python
 - JavaScript
+- SQL (SQLite)
 
 Other:
 - Django
-- SQL (SQLite)
+

@@ -7,6 +7,8 @@ These notes originally come from code-along courses and tutorials. *These notes 
 - They are mostly written in MarkDown .md format, though you should switch to the code view if things do not look correct/are missing pieces of info, as some elements containing certain symbols (like: > <, <head>) may not appear correctly. (*At least, I haven't figured out how to get them to display properly, yet.*)
   
 - Depending on the nature of certain courses/tutorials, some notes may be split between Markdown file and accompanying code files (.html, .css, .py, etc.)
+  
+- Not all code/projects are in working order because some tutorials I've attempted have gone outdated. Non-working projects are included for my own reference.
 
 *This repo is a work in progress!*
   
